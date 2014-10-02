@@ -1,0 +1,13 @@
+课程全称：自动机理论
+
+授课老师：John Hopcroft
+
+老师个人主页：http://www.cs.cornell.edu/jeh/
+
+授课年级：大二
+
+授课时间：大二
+
+课程简介：
+
+Introduction of Automata Theory

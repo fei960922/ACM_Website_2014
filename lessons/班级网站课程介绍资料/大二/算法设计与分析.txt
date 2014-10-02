@@ -1,0 +1,17 @@
+课程全称：算法设计与分析
+
+授课老师：邓小铁
+
+老师个人主页：http://www.cs.cityu.edu.hk/~deng
+
+授课年级：大二
+
+授课时间：大二
+
+课程简介：
+
+介绍有关各种问题的算法设计，并分析算法的复杂度、性能，锻炼学生自主设计算法的能力
+
+参考资料：
+
+Algorithmic Design, T. Roughgarden and E. Tardos

@@ -1,0 +1,14 @@
+课程全称：图论与组合
+
+授课老师：陈晓敏
+
+老师个人主页：暂无
+
+授课年级：大三
+
+授课时间：大三
+
+课程简介：
+
+This course serves as a broad exploration in the field of combinatorics, with a focus on the topics in or related to the theory of graphs and hyper-graphs. The course starts with the basic enumerative combinatorics, including combinatorial proofs in counting, the inclusion-exclusion principle and Mobius inversion, recursion and generating functions. Then we will discuss many interesting topics and techniques, including Ramsey theorems, extremal graph theory, conbinatorial designs, combinatorial geometry, graph matching, connectivity, planarity, and colouring, random graphs, Szemeredi’s regularity lemma, the probabilistic method, and the algebraic method. We will adore the legendary Erdos and his co-authors, and attack open problems. The course will be self-contained. The students are assumed to have the basic ability in problem solving.
+
