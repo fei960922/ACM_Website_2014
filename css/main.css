@@ -642,7 +642,6 @@ padding: 0;
 .student_in{
 	background-size: cover;
 	background-position: center;
-	height         : 500px;
 	width          : 100%;
 	display        : block;
 	overflow       : hidden;
@@ -651,20 +650,44 @@ padding: 0;
 }
 .student_in h1{
 	font-size: 60px;
-	padding  : 30px;
+	padding  : 20px 50px;
 }
-.student_in p{
+.student_l div,.student_r div{
 	width  :50%;
-	padding: 5px 30px;
+	padding: 20px 50px;
 }
+.student_r h1 {text-align: right;}
+.student_l img,.student_r div {float:right;}
+.student_r img,.student_l div {float:left;}
+.student_l img,.student_r img {
+	margin    :-10px 2% 2% 2%;
+	width     :45%;
+	border    : 10px solid #FFFFFF;
+	box-shadow: 0 0 30px #000000;
+}
+.student_b div {padding:20px 50px;}
+.student_b h1 {
+	margin: 20px 0 12% 0;
+}
+.student_b p{
+	float:left;
+	width:50%;
+	padding:1% 2%;
+}
+.student_black,.student_black a {color:black;}
+.student_white,.student_white a {color:white;}
+.student_grey div {background-color: rgba(0,0,0,0.4);}
 .teacher_in{
 	min-height: 500px;
 }
 .teacher_in:nth-child(even) {
 	background-color: #EEEEEE;
 }
-@media(max-width:480px){.student_in p{width:100%;padding:5px;}}
-@media(min-width:480px){.teacher_in img{float:right;}}
+@media(max-width:770px){.student_l div,.student_r div{padding:2px 10px;}}
+@media(max-width:480px){.student_l div,.student_r div{width:100%;padding:2px 10px;}
+						.student_l img,.student_r img{width:96%;}}
+@media(min-width:480px){.teacher_in img{float:right;}
+						.student_in {height:500px;}}
 .teacher_in img{
 	margin    :10%;
 	width     :30%;
