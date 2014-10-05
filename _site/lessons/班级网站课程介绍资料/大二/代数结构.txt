@@ -1,0 +1,18 @@
+课程全称：代数结构
+
+授课老师：刘胜利
+
+老师个人主页：http://yzb.sjtu.edu.cn/admission/manual/showDoctorTutorInfo.ahtml?tutorNum=08470
+
+授课年级：大二
+
+授课时间：大二
+
+课程简介：
+
+有关群、环、域等内容的介绍和分析，加深大家对代数的理解，并接触抽象代数的基础内容
+
+参考资料：
+
+《近世代数》，韩士安 林磊著 科学出版社
+Abstract Algebra: The Basic Graduate Year， Robert B. Ash

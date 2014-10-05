@@ -1,0 +1,13 @@
+课程全称：数据库系统
+
+授课老师：朱其立
+
+老师个人主页：http://www1.cs.sjtu.edu.cn/people_detail.action?id=81
+
+授课年级：大三
+
+授课时间：大三
+
+课程简介：
+
+This course is a first course in database systems for undergraduates at SJTU/CS. It covers the fundamantal concepts of modern database management including database design, database languages and database system implementation. It assumes only familiarity with basic data structures, computer organization and a high level programming language such as Java or C. The concepts and algorithm presented in this course are based on commercial or experimental database systems. The idea is not to tie these concepts to a particular database system but to present it in a general setting. Most of the assignments and projects are done using Java/C and the open source MySQL which is widely available. Topics covered in this course include: relational databases, database design, data storage and querying processing, transactions, system architecture, data mining and information retrieval, and optionally, XML and a case study on a particular database system.

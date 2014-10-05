@@ -1,0 +1,17 @@
+课程全称：计算机网络
+
+授课老师：朱燕民
+
+老师个人主页：http://www1.cs.sjtu.edu.cn/people_detail.action?id=82
+
+授课年级：大三
+
+授课时间：大三
+
+课程简介：
+
+This course focuses on the exciting, dynamic topic of computer networks and features the Internet and a top down approach. The goal of this course is to get the students some insight into the rationale of why networks are structured the way they are today, to understand the key issues in computer network design and to master the principles for solving the issues. It covers fundamentals, concepts, architecture, principles and important protocols for computer networks.
+
+In the application layer, typical applications and their protocols will be discussed, including Web and HTTP, File Transfer and FTP, Email and SMTP, Naming Service and DNS, and Peer-to-Peer. In the transport layer, UDP and TCP will be introduced. In addition, the principles of reliable data transfer and congestion control will be covered. In the network layer, we will learn the basics of a router, IP protocol, routing algorithms, and Internet routing protocols. In the link layer, we will learn error detection and correction, media access control, Link-layer addressing, Ethernet, Switches, PPP, Virtualization. We don’t explicitly learn stuffs in the physical layer. However, we will also cover other important topics including wireless and mobile network, multimedia network, and network security.
+
+In this course, the students are expected to under the key concepts and learn the principles that underline today’s computer network. And, they will develop network applications and learn network programming with sockets. In addition, the course will introduce the students with hot research frontiers in computer networks, such as wireless sensor network, Internet of things, etc.

@@ -6,7 +6,7 @@
 		</div>
 		<h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
 		<div class="col-md-6 timeline-body">
-	  		{{ post.content  | split:'<!--break-->' | first }}
+	  		 {{ post.content | strip_html | strip_newlines | truncate:195 }}
 		</div>
 		<div class="timeline-footer"><a class="pull-left" href="{{ post.url | prepend: site.baseurl }}">点击查看更多</a></div>
 	</div>
