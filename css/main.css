@@ -854,7 +854,6 @@ padding: 0;
 }
 
 .entry-contents .entry-more {
-	font-weight: bold;
 	text-decoration: none;
 }
 
@@ -1282,6 +1281,11 @@ padding: 0;
 	margin-top: 0;
 	padding-top: 3%;
 	background-color: #EEEEEE;
+}
+
+.teams_intro .season {
+	font-weight: bold;
+	font-size: 20px;
 }
 
 .team_frame {
