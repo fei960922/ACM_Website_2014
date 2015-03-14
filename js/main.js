@@ -24,11 +24,11 @@ $(document).ready(function(){
     
     var rand = Math.random();
     if (rand<0.333) 
-    	document.getElementById("index_1").style.background = "url(include/images/index_13.jpg) 50% 0 no-repeat"
+    	document.getElementById("index_1").style.background = "url(images/index_13.jpg) 50% 0 no-repeat"
     else if (rand>0.666)
-    	document.getElementById("index_1").style.background = "url(include/images/index_12.jpg) 50% 0 no-repeat"
+    	document.getElementById("index_1").style.background = "url(images/index_12.jpg) 50% 0 no-repeat"
     else
-    	document.getElementById("index_1").style.background = "url(include/images/index_11.jpg) 50% 0 no-repeat"
+    	document.getElementById("index_1").style.background = "url(images/index_11.jpg) 50% 0 no-repeat"
     document.getElementById("index_1").style.backgroundSize = "cover"
 
     fontmaking();
