@@ -9,6 +9,8 @@ baseurl:        "http://fei960922.github.io/ACM_Website_2014"
 url:            "http://fei960922.github.io/ACM_Website_2014"
 permalink:      /:categories/:title/
 
+
+
 footer:
       
 copyright:
